@@ -54,4 +54,10 @@ For any questions, feedback, or collaboration opportunities, please reach out to
 
 We hope that this 3D Wireframe Printer will inspire your creative projects and innovations. Happy printing!
 
-![Wireframe Printer](link-to-image.jpg)
+![wireframe](https://github.com/vagrillo/WireFrame3dPrinter/assets/56477712/e148711a-5d1a-4d63-b3f5-db18d6ec7082)
+
+![joint](https://github.com/vagrillo/WireFrame3dPrinter/assets/56477712/6ae13db9-834b-4739-80aa-767c121fc649)
+
+![frame](https://github.com/vagrillo/WireFrame3dPrinter/assets/56477712/cf249941-56a7-419c-a3a5-516972b99c91)
+
+
