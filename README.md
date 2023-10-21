@@ -60,4 +60,11 @@ We hope that this 3D Wireframe Printer will inspire your creative projects and i
 
 ![frame](https://github.com/vagrillo/WireFrame3dPrinter/assets/56477712/cf249941-56a7-419c-a3a5-516972b99c91)
 
+Mesh reduction
+![image](https://github.com/vagrillo/WireFrame3dPrinter/assets/56477712/e38628b7-7686-4dae-b8f3-f7c189cd41ba)
+
+![image](https://github.com/vagrillo/WireFrame3dPrinter/assets/56477712/6850ecc9-f252-41b7-babe-74320c867fd5)
+
+
+
 
