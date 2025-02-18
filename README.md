@@ -69,3 +69,7 @@ Mesh reduction
 
 
 
+![image](https://github.com/user-attachments/assets/2d576cd6-51bc-4081-b528-6c070e62960f)
+
+
+
