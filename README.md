@@ -1,4 +1,5 @@
 # 3D Wireframe Printer
+<img width="1344" height="800" alt="image" src="https://github.com/user-attachments/assets/3d740549-2a62-4440-957b-a145177bfd67" />
 
 ## Project Overview
 
